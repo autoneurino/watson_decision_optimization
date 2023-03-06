@@ -1,0 +1,5 @@
+*.json
+*.lp
+*.gz
+envs
+.idea
